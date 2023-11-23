@@ -1,2 +1,2 @@
-# Venge-Editor-Buttons
-These are buttons designed for ''skin marker'' and ''map editor''.
+# Credits
+Developed in collaboration by KAAN and BO$$
